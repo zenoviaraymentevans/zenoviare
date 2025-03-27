@@ -899,27 +899,6 @@
       "uuid": "21a81021-0707-43d5-9645-b3cb825625f7"
     },
     {
-      "start_time": 13,
-      "end_time": 15,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "mm"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Speech",
-          "category": "Extra-Poetic Sounds"
-        }
-      ],
-      "uuid": "fe47a889-c106-427e-ac3b-b56b9f11e3db"
-    },
-    {
       "start_time": 165,
       "end_time": 168,
       "annotation": [
