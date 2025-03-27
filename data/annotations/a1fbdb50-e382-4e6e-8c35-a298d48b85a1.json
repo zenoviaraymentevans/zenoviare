@@ -249,12 +249,12 @@
           "category": "Background"
         },
         {
-          "category": "_uncategorized_",
-          "tag": "rhyme"
+          "tag": "Rhyme",
+          "category": "Form"
         },
         {
-          "category": "_uncategorized_",
-          "tag": "meter"
+          "tag": "Meter",
+          "category": "Form"
         }
       ],
       "uuid": "9688b937-fec0-40a1-83a0-78b52ecf8733"
