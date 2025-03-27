@@ -1,0 +1,28 @@
+{
+  "audiovisual_files": {
+    "bbb3a6f5-321b-415a-b7fe-b8584c90b809": {
+      "label": "Still I Rise ",
+      "is_offline": false,
+      "file_url": "https://ia800109.us.archive.org/15/items/sample-02_202502/Sample%2002.mp3",
+      "duration": 174
+    }
+  },
+  "auto_generate_web_page": true,
+  "citation": "Angelou, Maya. \"Still I Rise.\"",
+  "item_type": "Audio",
+  "label": "And Still I RIse",
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "This is a reading of the poem \"Still I Rise\" by the poet Maya Angelou. "
+        }
+      ]
+    }
+  ],
+  "created_at": "2025-03-27T20:25:55.109Z",
+  "created_by": "zenoviaraymentevans",
+  "updated_at": "2025-03-27T20:25:55.109Z",
+  "updated_by": "zenoviaraymentevans"
+}
